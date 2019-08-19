@@ -1,11 +1,11 @@
-# Geilo Winter School 2018 in eScience - Practical Artificial Intelligence
+# TK8117: Bigdatacybernetics
 
-[Official website](https://www.sintef.no/projectweb/geilowinterschool/)
+[Official website](https://github.com/adil-rasheed/TK8117)
 
 ## Course material
 
-[course_material](https://github.com/sintefmath/GeiloWinterSchool2018/tree/master/course_material/index.ipynb)
-
+[course_material]
+(https://github.com/adil-rasheed/TK8117)
 
 ## Setup
 
@@ -34,7 +34,7 @@ pip install numpy scipy matplotlib pandas keras seaborn numexpr sklearn tensorfl
 
 ### Downloading course material
 
-* [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/sintefmath/GeiloWinterSchool2018) the source materials for this course and extract it someplace on your computer.
+* [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/adil-rasheed/TK8117) the source materials for this course and extract it someplace on your computer.
 * [Cats and dogs](https://www.dropbox.com/s/5dx3zcoxgytihlj/cats_dogs.zip?dl=0) the cats vs dogs dataset (20,000 images of cats and dogs for classification)
 
 
