@@ -35,7 +35,7 @@ pip install numpy scipy matplotlib pandas keras seaborn numexpr sklearn tensorfl
 ### Downloading course material
 
 * [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/adil-rasheed/TK8117) the source materials for this course and extract it someplace on your computer.
-* [Cats and dogs](https://www.dropbox.com/s/5dx3zcoxgytihlj/cats_dogs.zip?dl=0) the cats vs dogs dataset (20,000 images of cats and dogs for classification)
+* [Cats and dogs](https://www.dropbox.com/s/butsbcs9lbnw655/cats_dogs.zip?dl=0) the cats vs dogs dataset (20,000 images of cats and dogs for classification)
 
 
 ### Follow the lectures
