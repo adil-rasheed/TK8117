@@ -1,6 +1,6 @@
 # TK8117: Bigdatacybernetics
 
-[Official website](https://github.com/adil-rasheed/TK8117)
+[Official website](https://github.com/adil-rasheed/TK8117/blob/master/Lecture1/index.ipynb)
 
 ## Course material
 
