@@ -8,6 +8,7 @@
 
 [Lecture 4_material](https://github.com/adil-rasheed/TK8117/blob/master/Lecture4/index.ipynb)
 
+[Lecture 5_material](https://github.com/adil-rasheed/TK8117/blob/master/Lecture5/index.ipynb)
 ## Setup
 
 Every participant is asked to perform the following steps prior to attending the winter school.
